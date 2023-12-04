@@ -1,0 +1,60 @@
+
+body{
+  background-image: url('./1.jpg');
+background-size:cover;
+width: 100vw;
+height: 100vh;
+}
+
+
+
+form{
+    margin: auto;
+    width: 35%;
+    margin-top: 10%;
+background-color: rgb(15, 15, 15);
+border-radius: 5%;
+height: 450px !important;
+    
+  }
+  
+  .form-control{
+     width: 50%;
+     margin: auto;
+     border-radius: 5px;
+  }
+  
+  .btn-primary{
+    margin: auto;
+    margin-left: auto;
+  width: 38%;
+  margin-left: 32%;
+  border-radius: 10px;
+    margin-bottom: 28px;
+  
+  }
+
+  label{
+    color:rgb(255, 255, 255);
+    margin-left: 26%;
+    font-weight: bold;
+  }
+
+  h1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    height: 70px;
+    margin-top: 5px;
+    
+  }
+
+  a {
+    color:rgb(233, 0, 0);
+    text-decoration: none;
+    margin-left: 22%;
+    font-weight: bold;
+    margin-top: 5%;
+  }
+  
